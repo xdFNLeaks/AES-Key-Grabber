@@ -1,6 +1,5 @@
 import requests
 import json
-from requests import get
 from time import sleep
 
 # the path in which your AES keys that are generated will be stored. Keep empty to save in current path you run the code in.
