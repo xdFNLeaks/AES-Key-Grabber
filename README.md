@@ -1,17 +1,17 @@
-# AES-Key-Grabber
+# **AES-Key-Grabber**
 **A program to easily grab/generate the main and dynamic AES keys for Fortnite!**
 
 ---
 
-## Python
+## **Python**
 **This program was created on Python 3.11 and has not been tested with the latest vesion of python, it should still work though.**
 
-### Download Python:
-[Download the Latest version of Python here!](https://www.python.org/downloads/)
+### **Download Python:**
+**[Download the Latest version of Python here!](https://www.python.org/downloads/)**
 
 ---
 
-## Requirements
+## **Requirements**
 **NOTE: [Python](https://www.python.org/downloads/release/python-3115/) must be downloaded first!**
 
 **After installing Python, Open a command prompt by doing:**
@@ -26,7 +26,7 @@
 
 ---
 
-## Running the Program
+## **Running the Program**
 **NOTE: You may want to change the Path variable in `generate.py`! This is not required.**
 
 **To run the program, you can:**
@@ -41,7 +41,7 @@
 
 ---
 
-## Credits
+## **Credits**
 
 **[Fortnite API](https://fortnite-api.com/v2/aes)**
 
