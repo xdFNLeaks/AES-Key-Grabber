@@ -16,13 +16,13 @@
 
 **After installing Python, Open a command prompt by doing:**
 
-**`Win+X, Terminal`**
+`Win+X, Terminal`
 
 **or by searching `CMD` in the Windows Search.**
 
 **Copy and Paste the following text into your command prompt and hit enter:**
 
-**`pip install requests`**
+`pip install requests`
 
 ---
 
@@ -31,13 +31,15 @@
 
 **To run the program, you can:**
 
-**Run `RUN PROGRAM.bat`**
+Run `RUN PROGRAM.bat`
 
 **or in a command prompt, run the command**
 
-**`python generate.py`**
+`python generate.py`
 
 **In the directory that `generate.py` is located.**
+
+The AES keys will be saved into a txt file in the selected path. e.g. `v27.00 - AES KEYS.txt`
 
 ---
 
