@@ -45,8 +45,8 @@ The AES keys will be saved into a txt file in the selected path. e.g. `v27.00 - 
 
 ## **Credits**
 
-**[Fortnite API](https://fortnite-api.com/v2/aes)**
+**[Fortnite API](https://fortnite-api.com/)**
 
-**[FortniteCentral API](https://fortnitecentral.genxgames.gg/api/v1/aes)**
+**[FortniteCentral API](https://fortnitecentral.genxgames.gg/api/docs/)**
 
 **Slightly based on [FortniteFevers/AES-Key-Generator](https://github.com/FortniteFevers/AES-Key-Generator)**
