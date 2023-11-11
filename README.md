@@ -1,4 +1,4 @@
-# AES-Gey-Grabber
+# AES-Key-Grabber
 **A program to easily grab/generate the main and dynamic AES keys for Fortnite!**
 
 ---
